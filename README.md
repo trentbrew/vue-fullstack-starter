@@ -1,4 +1,4 @@
-# folio
+# vue-fullstack-starter
 
 ## Project setup
 ```
