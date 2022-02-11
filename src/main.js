@@ -6,13 +6,7 @@ import firebase from 'firebase'
 import VueFullPage from 'vue-fullpage.js'
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCkS0tpIKt8WWSDmJTi-Tc20BgEIRscmTc",
-  authDomain: "sitemind-6997f.firebaseapp.com",
-  databaseURL: "https://sitemind-6997f.firebaseio.com",
-  projectId: "sitemind-6997f",
-  storageBucket: "sitemind-6997f.appspot.com",
-  messagingSenderId: "935276287700",
-  appId: "1:935276287700:web:91da1a6a66cd2bbe9c8d41",
+
 };
 
 //initialize firebase
